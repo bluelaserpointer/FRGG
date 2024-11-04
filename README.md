@@ -1,2 +1,2 @@
-# FRGG
-FRGG: A Frame-wise Real-time Hand Gesture Generation Model Based on Audio, Facial Blendweight, and Head Pose
+# IORGesture
+IORGesture: An Immediate Online Real-time Gesture Generation Model for Virtual Avatar Control without Motion Tracking
